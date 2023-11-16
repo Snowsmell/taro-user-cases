@@ -1311,6 +1311,12 @@ const userCases = {
       framework: "react",
       taroVersion: "3.5.7",
       screenshot: []
+    },
+    {
+      name: "筑安科技",
+      url: "https://static-huariot-com.oss-cn-hangzhou.aliyuncs.com/appIcon/undefined_coozv.jpg",
+      framework: "vue",
+      taroVersion: "3.3.15",      
     }
   ],
   H5: [
